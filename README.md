@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ors1mer
-- ⚛️I’m interested in Science, Technology, Engineering, and Math
-- 🌱 I’m currently learning Python, Blender, English & French, and also some "rocket" science
+- ⚛️ I’m interested in Science, Technology, Engineering, and Math
+- 🌱 I’m currently learning Python, Blender, English & Français, and also some "rocket" science
 - 💞️ I’m looking to collaborate on ... Elon Musk (haha)
 
 <!---
